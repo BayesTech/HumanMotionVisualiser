@@ -1,4 +1,4 @@
-﻿namespace HumanMotionVisualiser
+﻿namespace HumanMotionVisualiser.View
 {
     public partial class MainWindow
     {
