@@ -11,6 +11,7 @@
         protected override void RegisterTypes(IContainerRegistry containerRegistry)
         {
             ViewModelLocationProvider.Register<MainWindow, MainWindowViewModel>();
+            ViewModelLocationProvider.Register<DataFileLoaderView, DataFileLoaderViewModel>();
         }
 
         protected override Window CreateShell()
