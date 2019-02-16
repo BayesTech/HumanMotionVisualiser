@@ -12,8 +12,6 @@
         mvvm:ViewModelLocator.AutoWireViewModel="True"
         Title="Human Motion Visualiser" Height="450" Width="800">
     <DockPanel>
-        <ToolBarPanel DockPanel.Dock="Top">
-            <view:DataFileLoaderView></view:DataFileLoaderView>
-        </ToolBarPanel>
+        <view:ToolBarPanel></view:ToolBarPanel>
     </DockPanel>
 </mah:MetroWindow>
