@@ -1,8 +1,8 @@
 ﻿namespace HumanMotionVisualiser.View
 {
-    public partial class DataFileLoaderView
+    public partial class ToolBarPanelView
     {
-        public DataFileLoaderView()
+        public ToolBarPanelView()
         {
             InitializeComponent();
         }

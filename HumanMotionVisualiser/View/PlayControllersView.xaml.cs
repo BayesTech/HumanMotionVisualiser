@@ -1,8 +1,8 @@
 ﻿namespace HumanMotionVisualiser.View
 {
-    public partial class DataFileLoaderView
+    public partial class PlayControllersView
     {
-        public DataFileLoaderView()
+        public PlayControllersView()
         {
             InitializeComponent();
         }
