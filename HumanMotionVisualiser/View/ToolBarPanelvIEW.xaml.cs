@@ -1,8 +1,8 @@
 ﻿namespace HumanMotionVisualiser.View
 {
-    public partial class ToolBarPanel
+    public partial class ToolBarPanelView
     {
-        public ToolBarPanel()
+        public ToolBarPanelView()
         {
             InitializeComponent();
         }
